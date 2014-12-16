@@ -1,0 +1,11 @@
+{
+  "name": "bacon.jquery.ajax",
+  "version": "0.0.1",
+  "main": "dist/bacon.jquery.ajax.js",
+  "scripts": [
+    "dist/bacon.jquery.ajax.js"
+  ],
+  "dependencies":{
+  	"baconjs/bacon.js":"*"
+  }
+}
