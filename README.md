@@ -1,7 +1,8 @@
 # bacon.jquery.ajax
 
-jQuery Ajax methods from [bacon.jquery](https://github.com/baconjs/bacon.jquery)
-Not dependent on [bacon.model](https://github.com/baconjs/bacon.model)
+A [bacon.js](https://github.com/baconjs/bacon.js) plugin containing jQuery Ajax methods from [bacon.jquery](https://github.com/baconjs/bacon.jquery)
+
+*Not dependent on [bacon.model](https://github.com/baconjs/bacon.model)*
 
 All the methods return an
 `EventStream` of AJAX results. AJAX errors are mapped into `Error`
