@@ -4,6 +4,20 @@ A [bacon.js](https://github.com/baconjs/bacon.js) plugin containing jQuery Ajax 
 
 *Not dependent on [bacon.model](https://github.com/baconjs/bacon.model)*
 
+Install
+=======
+
+If you're targeting to [node.js](http://nodejs.org/), you can
+
+    npm install bacon.jquery.ajax
+
+For [bower](https://github.com/twitter/bower) users:
+
+    bower install bacon.jquery.ajax
+
+AJAX
+====
+
 All the methods return an
 `EventStream` of AJAX results. AJAX errors are mapped into `Error`
 events in the stream.
