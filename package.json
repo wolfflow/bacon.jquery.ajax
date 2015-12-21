@@ -1,10 +1,28 @@
 {
   "name": "bacon.jquery.ajax",
   "version": "0.1.0",
-  "author": "Juha Paananen",
+  "keywords": [
+    "bacon.js",
+    "bacon",
+    "frp",
+    "functional",
+    "reactive",
+    "programming",
+    "jquery",
+    "ajax"
+  ],
+  "author": {
+    "name": "Daniel K",
+    "email": "x.flowwolf@gmail.com",
+    "url": "https://twitter.com/xflowwolf"
+  },
   "licenses": [
     "MIT"
   ],
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/wolfflow/bacon.jquery.ajax.git"
+  },
   "dependencies": {
     "baconjs": "~0.7.8"
   },
