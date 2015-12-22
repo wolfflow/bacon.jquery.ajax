@@ -24,7 +24,7 @@
     "url": "https://github.com/wolfflow/bacon.jquery.ajax.git"
   },
   "dependencies": {
-    "baconjs": "~0.7.8"
+    "baconjs": "^0.7.8"
   },
   "devDependencies": {
     "coffee-script": "1.4.0",
